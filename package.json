@@ -1,0 +1,16 @@
+{
+  "name": "silly-http",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "description": "A http port of Name Sillyfier.",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "name-fier": "^1.0.0"
+  }
+}
